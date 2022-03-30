@@ -3,4 +3,6 @@
 - 🔥 I’m currently learning React,Redux,Next,Tailwind CSS
 - ✉️ How to reach me: lomtadzenikusha@gmail.com
 - 💛 Website: https://nikolozlomtadze.netlify.app
+- 💡 Play with me: https://www.codewars.com/users/chaiqou
+
 
