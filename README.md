@@ -1,7 +1,2 @@
-- ✉️  <strong> How to reach me: lomtadzenikusha@gmail.com  </strong>
-- 💛 <strong> Website: https://nikolozlomtadze.netlify.app  </strong>
-
-
-
-
-
+- ✉️ **How to reach me:** [LinkedIn](https://www.linkedin.com/in/nikoloz-lomtadze-91858124a/)
+- 💛 **Website:** [Portfolio](https://nikolozlomtadze.netlify.app)
